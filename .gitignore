@@ -1,0 +1,20 @@
+# Compiled binary
+auction-simulator.exe
+auction-simulator
+
+# Results (generated at runtime)
+results/
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Go build cache
+*.exe~
